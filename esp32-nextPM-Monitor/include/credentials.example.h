@@ -14,4 +14,7 @@ const int MQTT_PORT = 1883;
 const char* MQTT_USER = "";
 const char* MQTT_PASSWORD = "";
 
+// VPS credentials
+const char* ROOT_PASSWORD = "";
+const char* VPS_USER = "";
 #endif
